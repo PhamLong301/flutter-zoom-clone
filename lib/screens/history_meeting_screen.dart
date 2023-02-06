@@ -1,3 +1,5 @@
+// ignore_for_file: unused_import
+
 import 'package:flutter/material.dart';
 import 'package:zoom_clone_tutorial/resources/firestore_methods.dart';
 import 'package:zoom_clone_tutorial/utils/colors.dart';
